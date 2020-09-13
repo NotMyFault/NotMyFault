@@ -6,5 +6,5 @@ If you want to contact me, you can do that on my project's discord server -> [In
 <br>
 Some stats:
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=N0tMyFaultOG&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=N0tMyFaultOG&show_icons=true&theme=tokyonight&hide=stars)
 
