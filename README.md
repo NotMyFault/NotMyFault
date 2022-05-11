@@ -1,6 +1,11 @@
 ### Heyo :wave:
 
-My name is Alex and I'm a Business sciences student (B.Sc.). In my spare time I work on Minecraft-related projects, such as [PlotSquared](https://github.com/IntellectualSites/PlotSquared), [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) and a variety of other open source projects.
-<br>
-If you want to contact me, checkout [my discord server](https://discord.gg/intellectualsites).
-<br>
+🧑‍🎓 My name is Alex and I'm a Business sciences student (B.Sc.) from Germany.    
+
+☕ I'm interested in Java technologies, continous delivery and integration.  
+
+⌛ In my spare time, I contribute to the [Jenkins](https://github.com/jenkinsci/jenkins) UI/UX and a variety of plugins in the ecosystem.    
+
+⛏️ I'm maintaining a few Minecraft plugins too, such as such as [PlotSquared](https://github.com/IntellectualSites/PlotSquared) or [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit).   
+
+💬 Checkout my [twitter (@NotMyFault_OG)](https://twitter.com/NotMyFault_OG) 
