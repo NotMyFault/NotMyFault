@@ -4,7 +4,7 @@
 
 ☕ I'm interested in Java technologies, continous delivery and integration.  
 
-⌛ In my spare time I contribute to [Jenkins](https://github.com/jenkinsci/jenkins), focusing on UI/UX, and a variety of plugins in the ecosystem.    
+⌛ In my spare time I contribute to [Jenkins](https://github.com/jenkinsci/jenkins), focusing on UI/UX components, and a variety of plugins in the ecosystem.    
 
 ⛏️ I'm maintaining a few Minecraft plugins too, such as such as [PlotSquared](https://github.com/IntellectualSites/PlotSquared) or [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit).   
 
