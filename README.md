@@ -1,6 +1,6 @@
 ### Heyo :wave:
 
-🧑‍🎓 My name is Alex and I'm a Business sciences student (B.Sc.) from Germany.    
+🧑‍🎓 My name is Alex and I'm a Business sciences student from Germany.    
 
 ☕ I'm interested in Java technologies, continous delivery and integration.  
 
